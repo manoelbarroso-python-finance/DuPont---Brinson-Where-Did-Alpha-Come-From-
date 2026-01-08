@@ -8,7 +8,7 @@ This project combines **equity portfolio attribution (Brinson–Fachler)** with 
 ⚡ Quick view (open & run):
 
 🔎 nbviewer (best for viewing):
-https://nbviewer.org/url/https://raw.githubusercontent.com/manoelbarroso-python-finance/DuPont---Brinson-Where-Did-Alpha-Come-From-/main/notebooks/data/01_project_overview.ipynb
+(https://nbviewer.org/github/manoelbarroso-python-finance/DuPont---Brinson-Where-Did-Alpha-Come-From-/blob/main/notebooks/data/01_project_overview.ipynb)
 
 🚀 Google Colab (run in browser):
 https://colab.research.google.com/github/manoelbarroso-python-finance/DuPont---Brinson-Where-Did-Alpha-Come-From-/blob/main/notebooks/data/01_project_overview.ipynb
