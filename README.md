@@ -1,4 +1,4 @@
-# DuPont × Brinson (Brazil) — Where Did Alpha Come From?
+# DuPont × Brinson (Brazil): Where Did Alpha Come From — and What Kind of ROE Did We Buy?
 
 This project combines **equity portfolio attribution (Brinson–Fachler)** with an **Extended DuPont decomposition** to answer a simple question:
 
