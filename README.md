@@ -5,6 +5,16 @@ This project combines **equity portfolio attribution (Brinson–Fachler)** with 
 > **Where did active return come from — and what kind of ROE did we buy?**  
 > (Operating performance vs. leverage-driven ROE)
 
+⚡ Quick view (open & run):
+🔎 nbviewer (best for viewing):
+https://nbviewer.org/url/https://raw.githubusercontent.com/manoelbarroso-python-finance/DuPont---Brinson-Where-Did-Alpha-Come-From-/main/notebooks/data/01_project_overview.ipynb
+
+🚀 Google Colab (run in browser):
+https://colab.research.google.com/github/manoelbarroso-python-finance/DuPont---Brinson-Where-Did-Alpha-Come-From-/blob/main/notebooks/data/01_project_overview.ipynb
+
+📦 RAW (used by nbviewer):
+https://raw.githubusercontent.com/manoelbarroso-python-finance/DuPont---Brinson-Where-Did-Alpha-Come-From-/main/notebooks/data/01_project_overview.ipynb
+
 ## What’s inside
 - **Attribution (performance lens):** sector **Allocation** vs. **Selection** effects vs. **Ibovespa** (cumulative, in **bps**).
 - **Fundamentals (quality lens):** Extended **DuPont** snapshot (Profit Margin × Asset Turnover × Equity Multiplier).
