@@ -1,0 +1,17 @@
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Data (CVM zips and heavy raw/cache)
+notebooks/data/data/cvm_raw/
+notebooks/data/data/raw/
+notebooks/data/data/processed/
+
+# Outputs that get big
+notebooks/data/outputs/*.parquet
+notebooks/data/outputs/*.csv
+
+# Keep figures (PNG) tracked
+!notebooks/data/outputs/**/*.png
